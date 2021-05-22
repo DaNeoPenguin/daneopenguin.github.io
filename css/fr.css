@@ -1,0 +1,13 @@
+h1.sdt{
+    color: #fff;
+    font-family: 'Alex Brush', cursive;
+    font-size: 650%;
+    padding-left: 8cm;
+}
+p.p{
+    color: #fff;
+    padding-left: 11cm
+    
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Alex+Brush&display=swap');
