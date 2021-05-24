@@ -1,9 +1,10 @@
-# titoudelaplage.github.io </br> (titoudelaplage's website)
-Hey, a loooooooooooooooooooooong time ago i decided to code a website, so i am fully coding it ! </br>
-Languages on the site : </br>
+# titoudelaplage.github.io 
+# (titoudelaplage's website)
+Hey, a loooooooooooooooooooooong time ago i decided to code a website, so i am fully coding it ! 
+Languages on the site : 
 <ul>
 <li>
-<a href="https://titoudelaplage.github.io/fr.html">Français (French)</a> </br>
+<a href="https://titoudelaplage.github.io/fr.html">Français (French)</a> 
 </li>
 <li>
 <a href="https://titoudelaplage.github.io/en.html">English (USA)</a>
