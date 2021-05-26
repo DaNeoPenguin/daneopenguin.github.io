@@ -7,6 +7,9 @@ div.center {
   position: relative;
   text-align: center;
 }
+p.p{
+    text-align: center
+}
 
 
 @import url("https://fonts.googleapis.com/css2?family=Alex+Brush&display=swap");
