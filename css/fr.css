@@ -1,13 +1,18 @@
-h1.sdt{
-    
-    font-family: 'Alex Brush', cursive;
-    font-size: 650%;
-    padding-left: 8cm;
+h1.sdt {
+  font-family: "Alex Brush", cursive;
+  font-size: 650%;
+  padding-left: 8cm;
 }
-p.p{
-    
-    padding-left: 11cm
-    
+p.p {
+  padding-left: 11cm;
+}
+div.center {
+  position: relative;
+}
+div.center {
+  position: absolute;
+  top: 50%; /* poussé de la moitié de hauteur du référent */
+  transform: translateY(-50%); /* tiré de la moitié de sa propre hauteur */
 }
 
-@import url('https://fonts.googleapis.com/css2?family=Alex+Brush&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Alex+Brush&display=swap");
