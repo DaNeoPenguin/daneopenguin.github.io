@@ -1,14 +1,12 @@
 h1.sdt {
   font-family: "Alex Brush", cursive;
   font-size: 650%;
+  text-align: center;
 }
 div.center {
   position: relative;
+  text-align: center;
 }
-div.center {
-  position: absolute;
-  top: 50%; /* poussé de la moitié de hauteur du référent */
-  transform: translateY(-50%); /* tiré de la moitié de sa propre hauteur */
-}
+
 
 @import url("https://fonts.googleapis.com/css2?family=Alex+Brush&display=swap");
