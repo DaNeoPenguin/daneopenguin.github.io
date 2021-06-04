@@ -5,11 +5,12 @@ h1.sdt {
 }
 div.center {
   position: relative;
-  text-align: center;
+  box-flex: center;
+
 }
 p.p{
     text-align: center
 }
-
+div
 
 @import url("https://fonts.googleapis.com/css2?family=Alex+Brush&display=swap");
