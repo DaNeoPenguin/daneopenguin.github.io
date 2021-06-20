@@ -5,18 +5,14 @@ h1.sdt {
 }
 div.center {
   position: relative;
-  box-flex: center;
-
 }
-p.p{
-    text-align: center
+p.p {
+  text-align: center;
 }
-div
-
-.container{
+div .container {
   display: flex;
   align-items: center;
-  flex-direction: center
+  flex-direction: center;
 }
 
 @import url("https://fonts.googleapis.com/css2?family=Alex+Brush&display=swap");
