@@ -9,7 +9,7 @@ div.center {
 p.p {
   text-align: center;
 }
-div .container {
+.container {
   display: flex;
   align-items: center;
   flex-direction: center;
